@@ -1,4 +1,4 @@
-# Welcome to the AI Fitness Trainer project! 
+# Welcome to the Fitness trainer using machine learning! 
 
  # Features #
 
