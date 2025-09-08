@@ -1,4 +1,4 @@
-# Welcome to the Fitness trainer using machine learning! 
+# Welcome to the Fitness Trainer Using Machine Learning! 
 
  # Features #
 
